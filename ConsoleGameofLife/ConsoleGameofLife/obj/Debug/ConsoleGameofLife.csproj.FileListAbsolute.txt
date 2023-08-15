@@ -1,0 +1,8 @@
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\bin\Debug\ConsoleApp1.exe
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\bin\Debug\ConsoleApp1.pdb
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\obj\Debug\ConsoleGameofLife.csproj.AssemblyReference.cache
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\obj\Debug\ConsoleGameofLife.csproj.SuggestedBindingRedirects.cache
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\obj\Debug\ConsoleGameofLife.csproj.CoreCompileInputs.cache
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\obj\Debug\ConsoleApp1.exe
+C:\Users\Katrine\Desktop\MAUI-test\ConsoleGameofLife\ConsoleGameofLife\obj\Debug\ConsoleApp1.pdb
